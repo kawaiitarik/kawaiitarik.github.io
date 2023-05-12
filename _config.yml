@@ -1,2 +1,9 @@
 title: Bikepacking
 remote_theme: riggraz/no-style-please
+description: >-
+  A place where I will document my bikepacking trips, the dates for the post is the day the trip started.
+
+theme_config:
+  back_home_text: "back"
+  date_format: "%Y-%m-%d"
+  show_description: true
