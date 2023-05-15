@@ -1,7 +1,14 @@
 entries:
-  - title: Norway
-    post_list:
-      category: norway
-  - title: Japan
-    post_list:
-      category: japan
+  - title: Routes
+    entries:
+      - title: Norway
+        post_list:
+          category: norway
+      - title: Japan
+        post_list:
+          category: japan
+  - title: Thanks to
+    entries:
+      - title: <a target="_blank" href="https://icons8.com/icon/1DDLWcrCVxtp/bicycle">Bicycle</a> favicon by <a target="_blank" href="https://icons8.com">Icons8</a>
+      - title: Theme by Riggraz
+        url: https://github.com/riggraz/no-style-please/
