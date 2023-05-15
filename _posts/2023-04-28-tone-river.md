@@ -3,7 +3,7 @@ layout: post
 category: japan
 ---
 
-![Green grass, blue river, and blue sky](/assets/img/tone-river/tone-river.jpg)
+![Green grass, blue river, and blue sky]({{ site.baseurl }}/assets/img/tone-river/tone-river.jpg)
 *You will get used to this view!*
 
 [Tone River](https://en.wikipedia.org/wiki/Tone_River) (also called Tonegawa/Tone-gawa, in Japanese: 利根川) is a 322 kilometer long river north of Tokyo.
@@ -11,7 +11,7 @@ Next to this river, starting in Shibukawa goes a 220 kilomter long "cycling" pat
 The last 10 kilometer or so is on a road shared with cars.
 The cycling path is constructed on top of the banks following the river.
 
-![A bridge blocking the path forward](/assets/img/tone-river/bridge.jpg)
+![A bridge blocking the path forward]({{ site.baseurl }}/assets/img/tone-river/bridge.jpg)
 *Yet another bridge blocking the path.*
 
 While it's true that the cycling path is free for cars, it doesn't mean it's one long strench!
@@ -27,10 +27,10 @@ The view is also not that spectacular for most of the trip, as it's mostly flat 
 
 ## The route
 
-![The starting point in Shibukawa](/assets/img/tone-river/the-start.jpg)
+![The starting point in Shibukawa]({{ site.baseurl }}/assets/img/tone-river/the-start.jpg)
 *The sign says "Tonegawa bicycle path".*
 
-My hand tailored [GPX-file](/assets/gpx/tone-river.gpx).
+My hand tailored [GPX-file]({{ site.baseurl }}/assets/gpx/tone-river.gpx).
 
 I tried to follow the [Biketourjapan.com](https://biketourjapan.com/tone-river-cycling-road-japans-longest-car-free-bike-route/) route for this trip, but it was a bit outdated.
 That's why I've tried to make my own route, which I know will be outdated this year, as there was a lot of construction the last half of the route.
@@ -57,7 +57,7 @@ The main challenge was the head wind I was cycling in for most of the journey, s
 Other challenges was all the down and up from the banks, and finding the right bank or trail to ride on.
 As the you can't stay on the same bank all the time, and there are several parks that you cross on the way.
 
-![A dam blocking the path forward](/assets/img/tone-river/dam.jpg)
+![A dam blocking the path forward]({{ site.baseurl }}/assets/img/tone-river/dam.jpg)
 *Yet another blockage, luckily it was easy to get down to the dam and walk over.*
 
 You also need to plan you stops for eating, as there are very few restaurants or convenience stores that you can see from the cycling path.
@@ -72,7 +72,7 @@ As my fitness level isn't good enough for cycling the whole 240 kilometers in on
 [Strava acitivty](https://www.strava.com/activities/8971191148)  
 [Strava activity for the final hotel](https://www.strava.com/activities/8971412494)
 
-![A narrow path through the forest](/assets/img/tone-river/through-the-forest.jpg)
+![A narrow path through the forest]({{ site.baseurl }}/assets/img/tone-river/through-the-forest.jpg)
 *There is a really nice narrow path around a golf park in the beginning.*
 
 It was easy to find the starting point for the route, and the first 50 kilometers was biking through forest, which was really nice!
@@ -82,23 +82,23 @@ The count down is every 500 meters or 1000 meters, not really inspiring for me, 
 The plan was to stay in Clearview golf Club & Hotel in Noda, but it was full (same with the ryokan next to it), so I ended up cycling another 5 kilometers to [Sakura Sky Hotel](http://sakuraskyhotel.jp/kashiwa/) in Kashiwa.
 Which I'm glad I did, cause it was cheaper, had a public bath (which was great after a long ride), simple breakfast, and a Chinese restaurant right around the corner was open till 22:30!
 
-![I ended up riding into the sunset](/assets/img/tone-river/sunset.jpg)
+![I ended up riding into the sunset]({{ site.baseurl }}/assets/img/tone-river/sunset.jpg)
 *I wish I had cycled the other way so I could had ridden into the sunset, instead of away from it.*
 
 ### Day two
 
 [Strava activity](https://www.strava.com/activities/8975847163)
 
-![Endless view of rice fields](/assets/img/tone-river/rice-fields.jpg)
+![Endless view of rice fields]({{ site.baseurl }}/assets/img/tone-river/rice-fields.jpg)
 *You will see plenty of rice fields while cycling down Tone river.*
 
 The second day started with heavy feet, but I managed to cover quite some distance before the head wind forced from the ocean made me cycle in half my usual speed.
 Path finding was easier, but the last 10-15 kilometers was mostly on car roads, meaning noise and up and down from the side walk to avoid (blocking) traffic.
 
-![A bridge in Choshi](/assets/img/tone-river/choshi.jpg)
+![A bridge in Choshi]({{ site.baseurl }}/assets/img/tone-river/choshi.jpg)
 *So many bridges crossing this river!*
 
 There isn't much to see in Choshi city, except for Inubosaki lighthouse (which is supposedly the place in Japan where the sun rises earliest in the new year).
 
-![The ocean from the Inubosaki lighthouse](/assets/img/tone-river/inubosaki.jpg)
+![The ocean from the Inubosaki lighthouse]({{ site.baseurl }}/assets/img/tone-river/inubosaki.jpg)
 *After more than 250 kilometers I reached the lighthouse!*
