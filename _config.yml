@@ -8,6 +8,8 @@ favicon: icons8-bicycle-96.png
 goat_counter: kyrremann
 remote_theme: riggraz/no-style-please
 
+permalink: /:categories/:year/:title
+
 theme_config:
   back_home_text: "back"
   date_format: "%Y-%m-%d"
