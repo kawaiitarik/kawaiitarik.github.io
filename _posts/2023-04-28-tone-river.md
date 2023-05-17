@@ -66,7 +66,23 @@ I did not factor this in on my first day, and ended up eating too little, so the
 
 ## My trip
 
-As my fitness level isn't good enough for cycling the whole 240 kilometers in one go, I decided to split it up into two stages.
+Cycling Tone river was one of the last thing I did on my four weeks trip to Japan in 2023.
+I had originally not planned to cycle any more after my [Kyushu trip]({{ site.baseurl }}/japan/2023/kyushu), but I ended up with two extra days, so why not try to find a trip near Tokyo.
+After some research, I found a list river paths from [BiketourJapan.com](https://biketourjapan.com/cycling-the-river-paths-of-japan/), and since Tone river was the longest, I had to try that one!
+
+![My bike in a rinko bag]({{ site.baseurl }}/assets/img/tone-river/rinko-bag.jpg)
+*My bike in a rinko bag, and my backpack with all my gear for the two day trip*
+
+Since I had to take my bike on a bus and trains, I needed to buy my self a rinko bag.
+Mine is a Ostrich SL-100, and it was pretty easy to use!
+Both wheels needs to be taken off, but it comes with three straps to fasten the wheels to the frame.
+There is also a should strap for easy carrying.
+To make it even safer I ended up loosen my rear derailur, so it was inside the frame instead of sticking out.
+
+I planned to sleep on a hotel on the trip, so I only brought one spare of clothes, and my eBook reader, Kobo.
+As you can see in the image above, all my gear fitted in my small backpack, but to avoid carrying everything on my back the whole trip I also brought a small frame bag and a small handlebar bag.
+I kinda wish that I brought the bigger handlebar bag, instead of the two small bags.
+As I didn't need anything from the bags while I was riding, and it would have made it easier when I got to the hotel and on the transportation.
 
 ### Day one
 
@@ -76,9 +92,14 @@ As my fitness level isn't good enough for cycling the whole 240 kilometers in on
 ![A narrow path through the forest]({{ site.baseurl }}/assets/img/tone-river/through-the-forest.jpg)
 *There is a really nice narrow path around a golf park in the beginning.*
 
-It was easy to find the starting point for the route, and the first 50 kilometers was biking through forest, which was really nice!
-There are signs guiding you, if you read Japanese, and a count down of how far away the ocean is.
-The count down is every 500 meters or 1000 meters, not really inspiring for me, but it did help the motivation at the end!
+I took the express bus to Shibukawa station, and after assembling my bike, I was off!
+Finding the starting  point for the route was easy, and the first 50 kilometers was biking through forest.
+Which was really nice!
+There are signs guiding you, if you can read Japanese, and a count down of how far away the ocean is.
+The count down is every 500 meters or 1000 meters, not really inspiring for me, but it did help the motivation when I was nearing the end of the route!
+
+After about 30 kilometers you have to take a 15 kilometers detour as Karasu river meets Tone river.
+It was a nice stretch to ride, but it would been nice with a little bridge to avoid the detour.
 
 The plan was to stay in Clearview golf Club & Hotel in Noda, but it was full (same with the ryokan next to it), so I ended up cycling another 5 kilometers to [Sakura Sky Hotel](http://sakuraskyhotel.jp/kashiwa/) in Kashiwa.
 Which I'm glad I did, cause it was cheaper, had a public bath (which was great after a long ride), simple breakfast, and a Chinese restaurant right around the corner was open till 22:30!
@@ -93,13 +114,19 @@ Which I'm glad I did, cause it was cheaper, had a public bath (which was great a
 ![Endless view of rice fields]({{ site.baseurl }}/assets/img/tone-river/rice-fields.jpg)
 *You will see plenty of rice fields while cycling down Tone river.*
 
-The second day started with heavy feet, but I managed to cover quite some distance before the head wind forced from the ocean made me cycle in half my usual speed.
-Path finding was easier, but the last 10-15 kilometers was mostly on car roads, meaning noise and up and down from the side walk to avoid (blocking) traffic.
+The second day started with heavy feet, but I managed to cover quite some distance before the head wind from the ocean made me cycle in half my usual speed.
+Path finding was easier, giving more flow to the riding.
+Sadly the last 15-ish kilometers was mostly on car roads, meaning noise and up and down from the side walk to avoid (blocking the) traffic.
 
 ![A bridge in Choshi]({{ site.baseurl }}/assets/img/tone-river/choshi.jpg)
 *So many bridges crossing this river!*
 
-There isn't much to see in Choshi city, except for Inubosaki lighthouse (which is supposedly the place in Japan where the sun rises earliest in the new year).
+Arriving at Choshi felt a bit anti-climatic as there is no obvious end point, so I decided to ride down to Inubosaki lighthouse.
+Which is supposedly the place in Japan where the sun rises earliest, so it is a popular place to travel to on New Years eve to see the first sunrise of the year.
 
 ![The ocean from the Inubosaki lighthouse]({{ site.baseurl }}/assets/img/tone-river/inubosaki.jpg)
 *After more than 250 kilometers I reached the lighthouse!*
+
+After my short visit to the lighthouse (which I forgot to take a picture of), I headed back to Choshi train station.
+I was 10 seconds too slow catching the first train back to Tokyo, because I was unsure of taking the train or a bus.
+Luckily it was only 20 minutes to wait for the next train, meaning I had time to buy some food for the road.
