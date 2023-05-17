@@ -21,7 +21,7 @@ There is also plenty of places where cars cross the cycling path, meaning there 
 
 ## Verdict (TL;DR)
 
-I would not really recommend cycling the whole route, but the first 50 kilometers are really nice.
+I would not really recommend cycling the whole route, but the first 50 kilometers was really nice.
 This is because you will be  going down and up the banks, and cycling against the head wind (if you cycle toward the ocean) most of the time.
 The view is also not that spectacular for most of the trip, as it's mostly flat farmland (a lot of rice fields).
 
@@ -55,15 +55,16 @@ PS: You need a rinko bag (輪行袋) to bring you bike on most transportation in
 
 The main challenge was the head wind I was cycling in for most of the journey, starting from around Honjo.
 Other challenges was all the down and up from the banks, and finding the right bank or trail to ride on.
-As the you can't stay on the same bank all the time, and there are several parks that you cross on the way.
+As other rivers joins the Tone river you can't stay on the same bank all the time, meaning you need to find the right bridge to cross over.
+There are also several parks that you cross on the way, and not all of them was easy to navigate.
 
 ![A dam blocking the path forward]({{ site.baseurl }}/assets/img/tone-river/dam.jpg)
 *Yet another blockage, luckily it was easy to get down to the dam and walk over.*
 
-You also need to plan you stops for eating, as there are very few restaurants or convenience stores that you can see from the cycling path.
-I did not factor this in on the first day, and ended up eating too little, so the next day I had several marked on my map in case I got hungry.
+You also need to plan you stops for eating, there are very few restaurants or convenience stores that you can see from the cycling path.
+I did not factor this in on my first day, and ended up eating too little, so the next day I had several marked on my map in case I got hungry.
 
-## Stages
+## My trip
 
 As my fitness level isn't good enough for cycling the whole 240 kilometers in one go, I decided to split it up into two stages.
 
