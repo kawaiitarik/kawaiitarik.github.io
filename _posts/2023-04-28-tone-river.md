@@ -84,7 +84,7 @@ As you can see in the image above, all my gear fitted in my small backpack, but 
 I kinda wish that I brought the bigger handlebar bag, instead of the two small bags.
 As I didn't need anything from the bags while I was riding, and it would have made it easier when I got to the hotel and on the transportation.
 
-### Day one
+### Day one - Shibukawa to Kashiwa
 
 [Strava acitivty](https://www.strava.com/activities/8971191148)  
 [Strava activity for the final hotel](https://www.strava.com/activities/8971412494)
@@ -107,7 +107,7 @@ Which I'm glad I did, cause it was cheaper, had a public bath (which was great a
 ![I ended up riding into the sunset]({{ site.baseurl }}/assets/img/tone-river/sunset.jpg)
 *I wish I had cycled the other way so I could had ridden into the sunset, instead of away from it.*
 
-### Day two
+### Day two - Kashiwa to Choshi
 
 [Strava activity](https://www.strava.com/activities/8975847163)
 
