@@ -30,7 +30,9 @@ The view is also not that spectacular for most of the trip, as it's mostly flat 
 ![The starting point in Shibukawa]({{ site.baseurl }}/assets/img/tone-river/the-start.jpg)
 *The sign says "Tonegawa bicycle path".*
 
-My hand tailored [GPX-file]({{ site.baseurl }}/assets/gpx/tone-river.gpx).
+My trip on [Ride With GPS](https://ridewithgps.com/collections/1990691?privacy_code=rAlAmFIlOlEMUAms).
+
+My recommendation for the route as a [GPX-file]({{ site.baseurl }}/assets/gpx/tone-river.gpx).
 
 I tried to follow the [Biketourjapan.com](https://biketourjapan.com/tone-river-cycling-road-japans-longest-car-free-bike-route/) route for this trip, but it was a bit outdated.
 That's why I've tried to make my own route, which I know will be outdated this year, as there was a lot of construction the last half of the route.
