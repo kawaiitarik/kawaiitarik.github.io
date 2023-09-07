@@ -74,10 +74,11 @@ PLATFORMS
   arm64-darwin-22
 
 DEPENDENCIES
+  jekyll-feed (~> 0.15.1)
   jekyll-remote-theme (~> 0.4.3)
   kramdown-parser-gfm (~> 1.1)
   no-style-please (~> 0.4.7)
   webrick (~> 1.8)
 
 BUNDLED WITH
-   2.4.12
+   2.4.18

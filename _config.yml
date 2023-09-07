@@ -10,6 +10,9 @@ remote_theme: riggraz/no-style-please
 
 permalink: /:categories/:year/:title
 
+plugins:
+  - jekyll-feed
+
 theme_config:
   back_home_text: "back"
   date_format: "%Y-%m-%d"
