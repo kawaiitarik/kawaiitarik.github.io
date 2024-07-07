@@ -6,7 +6,7 @@ category: japan
 ![View of a bridge connecting two island with a lot of forest, you can see a small town at the bottom of the image.]({{ site.baseurl }}/assets/img/shimanami-kaido/innoshima-bridge.jpg)
 *The view from the Takamiyama viewpoint.*
 
-Shimanami Kaido is a super popular cycling road connecting Honshū with Shikoku, through island biking on quiet roads, big bridges, and beautiful nature.
+Shimanami Kaido is a super popular cycling road connecting Honshū with Shikoku, taking across several islands with quiet roads, big bridges, and beautiful nature.
 There is a lot of information about this cycling route out there, so I'm not going to go into detail about it, other that what my experience riding it was.
 If you want to read more about Shimanami Kaido I recommend checking out [VisitShimanami.com](https://visitshimanami.com/) or [Japan-guide.com](https://www.japan-guide.com/e/e3478.html).
 
