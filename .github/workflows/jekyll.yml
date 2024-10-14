@@ -36,17 +36,18 @@ jobs:
           bundler-cache: true
           cache-version: 0
 
-      # Remove the current Gemfile.lock to regenerate it
+      # Remove Gemfile.lock to avoid conflicts
       - name: Remove Gemfile.lock
-        run: rm -f Gemfile.lock
-
-      # Add platform compatibility for both Linux and macOS before running bundle install
-      - name: Add platform compatibility for Linux and macOS
         run: |
+          rm -f Gemfile.lock
+
+      # Update Gemfile to avoid platform conflicts
+      - name: Update Gemfile for Linux platform
+        run: |
+          bundle lock --remove-platform arm64-darwin
+          bundle lock --remove-platform x86_64-darwin
           bundle lock --add-platform x86_64-linux
           bundle lock --add-platform arm64-linux
-          bundle lock --add-platform x86_64-darwin
-          bundle lock --add-platform arm64-darwin
 
       # Install dependencies with verbose mode for better debugging
       - name: Install Dependencies
@@ -77,5 +78,6 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
 
 
