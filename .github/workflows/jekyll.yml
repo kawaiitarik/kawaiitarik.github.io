@@ -36,11 +36,13 @@ jobs:
           bundler-cache: true
           cache-version: 0
 
-      # Add platform compatibility for Linux BEFORE running bundle install
-      - name: Add Linux platform to Bundler
+      # Add platform compatibility for both Linux and macOS
+      - name: Add platform compatibility for Linux and macOS
         run: |
           bundle lock --add-platform x86_64-linux
           bundle lock --add-platform arm64-linux
+          bundle lock --add-platform x86_64-darwin
+          bundle lock --add-platform arm64-darwin
 
       # Install dependencies with verbose mode for better debugging
       - name: Install Dependencies
