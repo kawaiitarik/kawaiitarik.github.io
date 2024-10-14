@@ -1,6 +1,6 @@
 title: Bikepacking
-author: Kyrre Havik
-email: Kyrremann@gmail.com
+author: Tarik Hasic
+email: hasic.tarik1998@gmail.com
 description: >-
   A place where I will document my bikepacking trips, the dates for the post is the day the trip started.
 
@@ -8,6 +8,7 @@ favicon: icons8-bicycle-96.png
 goat_counter: kyrremann
 remote_theme: riggraz/no-style-please
 
+url: "https://trichardsonthefirst.github.io/kawaiitarik.github.io"  # The URL where your site is served
 permalink: /:categories/:year/:title
 
 plugins:
