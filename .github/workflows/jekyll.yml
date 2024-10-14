@@ -36,17 +36,11 @@ jobs:
           bundler-cache: true
           cache-version: 0
 
-      # Remove Gemfile.lock to avoid conflicts and regenerate it
-      - name: Remove Gemfile.lock
-        run: rm -f Gemfile.lock
-
-      # Add platform compatibility for Linux
+      # Add platform compatibility for Linux BEFORE running bundle install
       - name: Add Linux platform to Bundler
-        run: bundle lock --add-platform x86_64-linux
-
-      # Update Bundler to the latest version
-      - name: Update Bundler
-        run: gem install bundler
+        run: |
+          bundle lock --add-platform x86_64-linux
+          bundle lock --add-platform arm64-linux
 
       # Install dependencies with verbose mode for better debugging
       - name: Install Dependencies
@@ -77,5 +71,4 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-
 
