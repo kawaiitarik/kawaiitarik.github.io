@@ -36,7 +36,11 @@ jobs:
           bundler-cache: true
           cache-version: 0
 
-      # Add platform compatibility for both Linux and macOS
+      # Remove the current Gemfile.lock to regenerate it
+      - name: Remove Gemfile.lock
+        run: rm -f Gemfile.lock
+
+      # Add platform compatibility for both Linux and macOS before running bundle install
       - name: Add platform compatibility for Linux and macOS
         run: |
           bundle lock --add-platform x86_64-linux
@@ -73,4 +77,5 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
 
