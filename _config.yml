@@ -8,7 +8,7 @@ favicon: icons8-bicycle-96.png
 goat_counter: kyrremann
 remote_theme: riggraz/no-style-please
 
-url: "https://kawaiitarik.github.io"  # The URL where your site is served for now
+url: "https://kawaiitarik.github.io"  # The URL where your site is served for now 1
 permalink: /:categories/:year/:title
 
 plugins:
