@@ -17,3 +17,5 @@ theme_config:
   back_home_text: "back"
   date_format: "%Y-%m-%d"
   show_description: true
+
+url: "https://kawaiitarik.github.io"
