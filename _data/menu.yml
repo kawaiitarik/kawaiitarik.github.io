@@ -1,14 +1,15 @@
 entries:
   - title: Routes
     entries:
-      - title: Norway
+      - title: France
         post_list:
-          category: norway
+          category: Paris
       - title: Japan
         post_list:
           category: japan
   - title: Thanks to
     entries:
-      - title: <a target="_blank" href="https://icons8.com/icon/1DDLWcrCVxtp/bicycle">Bicycle</a> favicon by <a target="_blank" href="https://icons8.com">Icons8</a>
+      - title: Erik for helping me out last minute with a great bicycle.
+      - title: Everbody who believes in me.
       - title: Theme by Riggraz
         url: https://github.com/riggraz/no-style-please/
