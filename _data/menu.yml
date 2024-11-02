@@ -3,7 +3,7 @@ entries:
     entries:
       - title: France
         post_list:
-          category: Paris
+          category: paris
       - title: Japan
         post_list:
           category: japan
