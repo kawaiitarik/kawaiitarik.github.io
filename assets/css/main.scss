@@ -26,8 +26,9 @@ a:hover {
     color: lightyellow; /* Lighter yellow on hover */
 }
 
-/* Restricting images to a maximum width of 1024px and maintaining aspect ratio */
+/* Restricting images to a maximum width and height for desktop */
 img {
     max-width: 100%;  /* Ensures images are responsive */
+    max-height: 80vh; /* Limits vertical height to 80% of the viewport height */
     height: auto; /* Keeps aspect ratio intact */
 }
