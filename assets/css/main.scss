@@ -1,33 +1,33 @@
 ---
 ---
 
-// Importing the minimal style
+/* Importing the minimal style */
 @import "no-style-please";
 
-// Locking dark mode, regardless of the user's device preference
+/* Locking dark mode, regardless of the user's device preference */
 body {
-    background-color: #121212; // Dark background for dark mode
-    color: #ffffff; // Light text for contrast
+    background-color: #121212; /* Dark background for dark mode */
+    color: #ffffff; /* Light text for contrast */
 }
 
-// Ensuring img + em elements are styled as you need
+/* Ensuring img + em elements are styled as you need */
 img + em {
     font-size: 12px;
     font-style: normal;
 }
 
-// Changing link color to yellow
+/* Changing link color to yellow */
 a {
-    color: yellow; // Sets link color to yellow
-    text-decoration: none; // Optional: removes underline from links
+    color: yellow; /* Sets link color to yellow */
+    text-decoration: none; /* Removes underline from links */
 }
 
 a:hover {
-    color: lightyellow; // Optional: lighter yellow on hover
+    color: lightyellow; /* Lighter yellow on hover */
 }
 
-// Restricting images to a maximum width of 1024px and maintaining aspect ratio
+/* Restricting images to a maximum width of 1024px and maintaining aspect ratio */
 img {
-    max-width: 100%;  // Ensures images are responsive
-    height: auto; // Keeps aspect ratio intact
+    max-width: 100%;  /* Ensures images are responsive */
+    height: auto; /* Keeps aspect ratio intact */
 }
