@@ -4,31 +4,34 @@
 /* Importing the minimal style */
 @import "no-style-please";
 
-/* Locking dark mode, regardless of the user's device preference */
+/* Enforcing dark mode, overriding device settings */
 body {
-    background-color: #121212; /* Dark background for dark mode */
+    background-color: #121212; /* Dark background */
     color: #ffffff; /* Light text for contrast */
 }
 
-/* Ensuring img + em elements are styled as you need */
-img + em {
-    font-size: 12px;
-    font-style: normal;
-}
-
-/* Changing link color to yellow */
+/* Styling links to be yellow in dark mode */
 a {
     color: yellow; /* Sets link color to yellow */
-    text-decoration: none; /* Removes underline from links */
+    text-decoration: none; /* Optional: removes underline from links */
 }
 
 a:hover {
-    color: lightyellow; /* Lighter yellow on hover */
+    color: lightyellow; /* Optional: lighter yellow on hover */
 }
 
-/* Restricting images to a maximum width and height for desktop */
+/* Ensuring images are responsive and fit well in the layout */
 img {
-    max-width: 100%;  /* Ensures images are responsive */
-    max-height: 80vh; /* Limits vertical height to 80% of the viewport height */
-    height: auto; /* Keeps aspect ratio intact */
+    width: 100%;  /* Ensures images span the full width of their container */
+    max-height: 90vh; /* Caps height to prevent vertical images from being too tall */
+    object-fit: cover; /* Maintains aspect ratio */
+    height: auto;
+}
+
+/* Optional: Overriding any media query that detects the device's theme preference */
+@media (prefers-color-scheme: dark), (prefers-color-scheme: light) {
+    body {
+        background-color: #121212 !important; /* Ensures dark background */
+        color: #ffffff !important; /* Ensures text is light */
+    }
 }
