@@ -1,6 +1,5 @@
 ---
 ---
-
 /* Importing the minimal style */
 @import "no-style-please";
 
@@ -13,11 +12,11 @@ body {
 /* Styling links to be yellow in dark mode */
 a {
     color: yellow; /* Sets link color to yellow */
-    text-decoration: none; /* Optional: removes underline from links */
+    text-decoration: none; /* Removes underline from links */
 }
 
 a:hover {
-    color: lightyellow; /* Optional: lighter yellow on hover */
+    color: lightyellow; /* Lighter yellow on hover */
 }
 
 /* Ensuring images are responsive and fit well in the layout */
@@ -28,7 +27,7 @@ img {
     height: auto;
 }
 
-/* Optional: Overriding any media query that detects the device's theme preference */
+/* Prevent system dark/light mode preferences from affecting dark mode */
 @media (prefers-color-scheme: dark), (prefers-color-scheme: light) {
     body {
         background-color: #121212 !important; /* Ensures dark background */
