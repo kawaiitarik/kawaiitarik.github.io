@@ -13,6 +13,7 @@ plugins:
   - jekyll-feed
 
 theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
   back_home_text: "back"
   date_format: "%Y-%m-%d"
   show_description: true
