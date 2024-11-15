@@ -15,4 +15,5 @@ entries:
         url: https://github.com/riggraz/no-style-please/
   - title: Komoot Collection
     entries:
-        url: https://www.komoot.com/de-de/collection/3133465/-kawaii-japan-bikepacking
+      - title: View Komoot Map
+        url: /komoot
